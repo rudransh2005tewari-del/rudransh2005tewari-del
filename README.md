@@ -28,6 +28,11 @@ Enhancing NGO Operations through Data Analytics — Internship project at Setux,
 
 Sales Dashboard and Data Visualization — Academic work involving data analysis and visualization using tools such as Power BI and Tableau.
 
+Internship Experience
+Setux, Pune — Internship
+
+Completed a five-month internship focused on understanding how data analytics can help improve NGO operations and support data-driven decisions.
+ 
  Certifications & Learning
 
 Databricks Workshop — Sri Balaji University
