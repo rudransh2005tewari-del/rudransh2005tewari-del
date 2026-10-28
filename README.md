@@ -10,7 +10,7 @@ I am interested in using data to understand business problems, identify patterns
 
 PGDM — Fortune Institute of International Business (FIIB), Delhi | 2026–2028
 
-BBA in Business Analytics — Sri Balaji University, Pune | 2023–2027
+BBA in Business Analytics — Sri Balaji University, Pune | 2023–2026
 
  Skills & Tools
 
